@@ -26,3 +26,7 @@ google_analytics: UA-2285755-9
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
