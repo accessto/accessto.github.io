@@ -12,18 +12,16 @@ color:
 # Footer settings
 footer: AccessTo Conference
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/AxsConf
   - title: github
     url: https://github.com/accessto
+  - title: youtube
+    url: https://www.youtube.com/channel/UCLJ_EZga09jTu13LFlrg97Q
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-2285755-9
 
 # Build settings
 markdown: kramdown
