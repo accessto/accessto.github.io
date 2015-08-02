@@ -1,0 +1,30 @@
+# Site settings
+title: Access to AI Conference
+email: conference@accessto.io
+url: http://accessto.io
+description: "A conference for introducing professional programmers to machine learning and artificial intelligence."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: AccessTo Conference
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/accessto
+
+# Build settings
+markdown: kramdown
+permalink: pretty
