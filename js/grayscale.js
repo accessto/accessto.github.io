@@ -41,7 +41,7 @@ function init() {
         zoom: 10,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(37.733795, -122.446747), // San Francisco
+        center: new google.maps.LatLng(37.411859, -122.070963), // Microsoft Silicon Valley Campus
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
