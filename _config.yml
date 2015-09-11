@@ -1,6 +1,7 @@
 # Site settings
 title: Access to AI Conference
 email: conference@accessto.io
+sponsor-email: sponsors@accessto.io
 url: http://accessto.io
 description: "A conference for introducing professional programmers to machine learning and artificial intelligence."
 
